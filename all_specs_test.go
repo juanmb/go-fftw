@@ -1,4 +1,4 @@
-package fftw
+package fftwf
 
 import (
 	"github.com/orfjackal/gospec/src/gospec"
